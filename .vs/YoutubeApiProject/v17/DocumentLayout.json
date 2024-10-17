@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|c:\\users\\acer\\desktop\\youtubeapiproject\\youtubeapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|solutionrelative:youtubeapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|c:\\users\\acer\\desktop\\youtubeapiproject\\youtubeapiproject\\views\\youtube\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|solutionrelative:youtubeapiproject\\views\\youtube\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|c:\\users\\acer\\desktop\\youtubeapiproject\\youtubeapiproject\\controllers\\youtubecontroller.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|solutionrelative:youtubeapiproject\\controllers\\youtubecontroller.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|c:\\users\\acer\\desktop\\youtubeapiproject\\youtubeapiproject\\models\\youtubevideomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|solutionrelative:youtubeapiproject\\models\\youtubevideomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|c:\\users\\acer\\desktop\\youtubeapiproject\\youtubeapiproject\\services\\youtubeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|solutionrelative:youtubeapiproject\\services\\youtubeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|c:\\users\\acer\\desktop\\youtubeapiproject\\youtubeapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|solutionrelative:youtubeapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|c:\\users\\acer\\desktop\\youtubeapiproject\\youtubeapiproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|solutionrelative:youtubeapiproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|c:\\users\\acer\\desktop\\youtubeapiproject\\youtubeapiproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DE3B214B-70BC-4814-8614-B652313D7AA8}|YoutubeApiProject\\YoutubeApiProject.csproj|solutionrelative:youtubeapiproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "YoutubeApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Program.cs",
+              "RelativeToolTip": "YoutubeApiProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:31:41.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "YoutubeController.cs.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Controllers\\YoutubeController.cs.cs",
+              "RelativeDocumentMoniker": "YoutubeApiProject\\Controllers\\YoutubeController.cs.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Controllers\\YoutubeController.cs.cs",
+              "RelativeToolTip": "YoutubeApiProject\\Controllers\\YoutubeController.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:27:56.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YouTubeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Services\\YouTubeApiService.cs",
+              "RelativeDocumentMoniker": "YoutubeApiProject\\Services\\YouTubeApiService.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Services\\YouTubeApiService.cs",
+              "RelativeToolTip": "YoutubeApiProject\\Services\\YouTubeApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:26:01.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YouTubeVideoModel.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Models\\YouTubeVideoModel.cs",
+              "RelativeDocumentMoniker": "YoutubeApiProject\\Models\\YouTubeVideoModel.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Models\\YouTubeVideoModel.cs",
+              "RelativeToolTip": "YoutubeApiProject\\Models\\YouTubeVideoModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:25:05.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "YoutubeApiProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\appsettings.json",
+              "RelativeToolTip": "YoutubeApiProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T20:20:12.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "YoutubeApiProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "YoutubeApiProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T19:58:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Views\\Youtube\\Index.cshtml",
+              "RelativeDocumentMoniker": "YoutubeApiProject\\Views\\Youtube\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Views\\Youtube\\Index.cshtml",
+              "RelativeToolTip": "YoutubeApiProject\\Views\\Youtube\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T19:58:36.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "YoutubeApiProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\YoutubeApiProject\\YoutubeApiProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "YoutubeApiProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T16:47:18.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
